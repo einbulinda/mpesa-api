@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "daraja-api-254",
+  "private_key_id": "9c617837fa5e93cb5c1e03ddac0c10694d6fbd3d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCw7UWybENu8v/r\nh/GYyU0fqUiSleqGNyEhlvp7HWqQIIx3n5xG0iBIZeyQPKm1motJkR8IeWbBAUr5\nvxgUYB2EETGGoLo7xHvmJ/6EzflGXht0bx/7FNd47wFl+g8Hd8kQsc7G/KSj3fmm\n+lRaiPgslS36L1XR/awnyqzzrtiLuMYHYjf0Juu/QQ2H/ph3uW4GEIB4mF7ti8cB\nOXBUfjEStMDfum94paSx4/fpuG3dipLirKNdI6/qTxNv3zgnKwkKHRmCbtMmjxDZ\n2Z7lWCqsE5tFmaKrdEOPqW2Qon7cd8ULIHmhj4tnY7HoEYhFH4VNon7h+sSVgnyC\nouZ/KqylAgMBAAECggEADUwP4GyFlumZdVy2uipq6vXAmA+/XA35pfogYi9gSmu/\n0t/CkYoKVhae9GoywQzX6hQHlo31PI050tJbX3Cn1zypkboztPk77JzV4qpOUU0S\nWCpf53F2Dkc8PitQhNmqWWBbr5XeU9iDglqvC0zfBg7CMVrsYsdjcGwpmnjqGnoN\nFhBdkYbChpctiUglzFaBYYD6hXjXhTpbCAfYT7tnGjnEsOCMQA5470GCuuQj0Do9\nSUqKuSLFldZWVm8hFi1EP1IRHfHJo18z+Km/nL+aeLwbPUyvKlq7RvBONLs+v4GC\nio43Jlb2WMLbww+MyJB4hlSgSLY7EZOlL/hOAVO8IwKBgQDev3MaDtHVhKI5iy2K\nQml3G9csqvvox2NgfDkcY2zBfH/zNDA2CFJvQ7xx5gMCuqwqHhRGcUfIT9VbcgUM\nNkSWZ+Bk+b6kaSU0V758v9TFHj5z7YyNJOeVZlgfJDUps2ktmt/vM6q+G1Y5mqiT\ny8TPkuiuqehoRWDYvBWYxFU9SwKBgQDLVrkpE3FOZSahcc0t4y1P66+/8EJdP+rm\nuGkQht+MjklxC0pXWDkrhG2jQVTC7YpQXUdpfWnjJ2h66FYn0bJ6MQVAcs/bUAqn\nAez3PedvnpcfoXFlgx/kGhxc5YEIMv8nF6X78EQJDlkrYmrcMjAqCFDYVeDXI3lp\nKx90/Vk3zwKBgA0H8jniCBCPs9Xd+IoQHI9lR49LaXVSxNOOMOEiR+iB2hJmSTPA\nBOKReeLH7AEq3ouQOutsESD82qSA5R6zxgtuhEgj/C0uIYkQYQp3RoFJpamuifxv\n3kR1Ok6IFbwczNhoKRWbVi/M9ZxlGdubniXumEIvmnMPK/1B85l+UuZFAoGBAIhg\nkvFUw/LTbrRrMjTroDFxHr/58Vi/jNnPp0/ZVcfciq9R5jtsxXNFb49GOwY98T1z\nQnkjD0i13qJIf7hXMYA4rpAKMRSju3FFnlw43aeEU1F4oyh1aIdBZ/J6Ty9jnLPo\nbX/rJoZ4ZB/v80HaO2mFiEuAVbuVZFHABWoenZ8LAoGBAKhUgm8YqEaOrZlhNNV/\nmmJgm+GM6iVlw+APLwo1dvjxUzDpGLOnwR9y9WIRpBGKLL0ZpsYJx8JzyQ43Ms8b\nL88Uj6dzAycT/tpaL+QGp2TGIAXDrvR9sORP9gQsgGLRZSORZbBvWVY1C4pIMRiQ\nUJ0iQ4t1GJlpFVX1wN3DuVHL\n-----END PRIVATE KEY-----\n",
+  "client_email": "daraja-api-254@appspot.gserviceaccount.com",
+  "client_id": "103185900938347343369",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/daraja-api-254%40appspot.gserviceaccount.com"
+}
